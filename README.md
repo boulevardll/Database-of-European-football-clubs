@@ -1,1 +1,1 @@
-# Database-of-European-football-clubs
+# Database of European football clubs
